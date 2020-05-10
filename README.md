@@ -2,8 +2,8 @@
 
 ## Integrantes
 
--Astorga Nicolas
--Gutierrez Walter
--Rocha Fernando
--Valenti Joel
+*Astorga Nicolas
+*Gutierrez Walter
+*Rocha Fernando
+*Valenti Joel
 
