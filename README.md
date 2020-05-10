@@ -1,24 +1,9 @@
-# vuetp1
+# Trabajo Practico Vue.js
 
-## Project setup
-```
-npm install
-```
+## Integrantes
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+-Astorga Nicolas
+-Gutierrez Walter
+-Rocha Fernando
+-Valenti Joel
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
