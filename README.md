@@ -1,10 +1,10 @@
 # Trabajo Práctico Vue.js
 
-#Integrantes
-*Astorga Nicolas
-*Gutierrez Walter
-*Rocha Fernando
-*Valenti Joel
+# Integrantes
+* Astorga Nicolás,
+* Gutierrez Walter,
+* Rocha Fernando,
+* Valenti Joel
 
-#Dependencias 
-vue add bootstrap-vue
+# Dependencias 
+* vue add bootstrap-vue
