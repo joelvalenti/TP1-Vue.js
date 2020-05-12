@@ -1,8 +1,9 @@
 <template>
   <div class="productos">
-    <b-container fluid>
-      <b-card deck>
-        <div class="cards"
+    <b-container>
+      <b-card>
+        <div
+          class="cards"
           v-for="instrumento in instrumentosData"
           :key="instrumento.id"
         >
